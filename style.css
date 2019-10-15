@@ -19,6 +19,10 @@
     .mainbody{
         background-color: green;
     }
+
+    .some-class {
+        display: block;
+        }
  }
 
 @media (max-width: 767px) {
@@ -35,4 +39,8 @@
     .column {
         width: 25%;
     }
+}
+
+.some-class {
+display: block;
 }
