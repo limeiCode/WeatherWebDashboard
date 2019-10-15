@@ -1,0 +1,38 @@
+
+.navbar-brand {
+    background-color: #2dbad6 !important;
+    padding-left: .3125rem;
+    padding-right: .3125rem;
+    color: white  !important;
+    
+}
+
+.navbar{
+    background-color: #FFF !important;
+}
+
+.mainbody{
+    background-color: #e6e6e6;
+}
+
+@media (max-width: 575px) { 
+    .mainbody{
+        background-color: green;
+    }
+ }
+
+@media (max-width: 767px) {
+    .column {     /* <div class="column"> [Grid column]*/
+        width: 100%;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .column {
+        width: 50%;
+    /* } */
+}
+@media (min-width: 1025px) {
+    .column {
+        width: 25%;
+    }
+}
