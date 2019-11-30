@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Weather Web Dashboard
 
 ### This project used <span style="color:purple ;">**Bootstrap Navbar**</span> and <span style="color:purple ;">**Bootstrap table**</span> to create a visualization dashboard website to demonstrate the analyze on how weather changes as you get closer to the equator. 
@@ -6,6 +7,8 @@
 - - -
 
 ![Climate.jpg](Resources/images/Climate.jpg)
+=======
+>>>>>>> 98348379625636add364df264f30eed208138881
 
 - - -
 
