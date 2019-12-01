@@ -1,4 +1,3 @@
-
 # World Wide Weather Analyzing and Web Dashboard Demonstrating
 
 ### This project first used <span style="color:purple ;">**numpy**</span>, <span style="color:purple ;">**CityPi and OpenWeatherMap APIs**</span> to generate city weather data  and used <span style="color:purple ;">**matplotlib**</span> plot the weather data for analyzing, then use <span style="color:purple ;">**Bootstrap Navbar**</span> and <span style="color:purple ;">**Bootstrap table**</span> to create a visualization dashboard website to demonstrate the analyzing results of how weather changes as you get closer to the equator(Latitude=0). 
@@ -6,6 +5,7 @@
 - - -
 
 ![Climate.jpg](Resources/images/Climate.jpg)
+
 
 - - -
 
@@ -20,7 +20,6 @@
 
 *  **Bootstrap navbar**:  The navbar is one of the prominent features of Bootstrap sites. Navbars are `responsive` 'meta' components that serve as navigation headers for your application or site. Navbars collapse in mobile views and become horizontal as the available viewport width increases. At its core, the navbar includes styling for site names and basic navigation.
 *  **Bootstrap table**:  It can makes a `Responsive Tables` by using 'table-responsive' class. It scrolls horizontally up to small devices (under 768px) and when viewing on anything larger than 768px wide no any difference.
-
 
 ## Project Files:
 
