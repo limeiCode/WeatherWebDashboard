@@ -11,11 +11,11 @@ This project first used <span style="color:purple ;">**numpy**</span>, <span sty
 
 ## Technologies Used
 
-*  **numpy**:  1500 sample geo-coordinates(list of latitude and longitude pairs) are drawnfrom a **uniform distribution**. 
+*  **Numpy**:  1500 sample geo-coordinates(list of latitude and longitude pairs) are drawnfrom a **uniform distribution**. 
 
 *  **CityPi and OpenWeatherMap APIs**:  Using **CityPi** API to get city name list based on geo-coordinates and using **OpenWeatherMap** API to get current and historical weather data.
 
-*  **matplotlib**: Matplotlib is a **plotting library** for the Python programming language and its numerical mathematics extension NumPy.  
+*  **Matplotlib**: Matplotlib is a **plotting library** for the Python programming language and its numerical mathematics extension NumPy.  
 
 *  **Bootstrap navbar**:  The navbar is one of the prominent features of Bootstrap sites. Navbars are **responsive** *meta* components that serve as navigation headers for your application or site. Navbars collapse in mobile views and become horizontal as the available viewport width increases. At its core, the navbar includes styling for site names and basic navigation.
 *  **Bootstrap table**:  It can makes a **Responsive Tables** by using *table-responsive* class. It scrolls horizontally up to small devices (under 768px) and when viewing on anything larger than 768px wide no any difference.
