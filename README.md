@@ -13,7 +13,7 @@ This project first used <span style="color:purple ;">**numpy**</span>, <span sty
 
 *  **numpy**:  1500 sample geo-coordinates(list of latitude and longitude pairs) are drawnfrom a **uniform distribution**. 
 
-*  **CityPi and OpenWeatherMap APIs**:  Using **CityPi** API to get city name list whose population is over 500 based on geo-coordinates and using **OpenWeatherMap** API to get current and historical weather data.
+*  **CityPi and OpenWeatherMap APIs**:  Using **CityPi** API to get city name list based on geo-coordinates and using **OpenWeatherMap** API to get current and historical weather data.
 
 *  **matplotlib**: Matplotlib is a **plotting library** for the Python programming language and its numerical mathematics extension NumPy.  
 
