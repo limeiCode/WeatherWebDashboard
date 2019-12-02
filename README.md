@@ -18,7 +18,7 @@ This project first used <span style="color:purple ;">**Numpy**</span>, <span sty
 *  **Matplotlib** is a plotting library for the Python programming language and its numerical mathematics extension NumPy.  
 
 *  **Bootstrap Navbar** is one of the prominent features of Bootstrap sites. Navbars are *responsive* meta components that serve as navigation headers for your application or site. Navbars collapse in mobile views and become horizontal as the available viewport width increases. At its core, the navbar includes styling for site names and basic navigation.
-*  **Bootstrap Table** can makes a *Responsive Tables* by using `table-responsive` class. It scrolls horizontally up to small devices (under 768px) and when viewing on anything larger than 768px wide no any difference.
+*  **Bootstrap Table** is used to set the layout of the webpage and it can makes a *Responsive Tables* by using `table-responsive` class. It scrolls horizontally up to small devices (under 768px) and when viewing on anything larger than 768px wide no any difference.
 
 ## Project Files:
 
