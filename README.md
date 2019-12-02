@@ -39,7 +39,7 @@ This project first used <span style="color:purple ;">**Numpy**</span>, <span sty
 
 ## Final Results
 
-By sending requests from **Brower** to the **Flask Server** can get below results: 
+By sending requests from **Brower** to the **index.html** can get below results: 
 
 - - -
 
